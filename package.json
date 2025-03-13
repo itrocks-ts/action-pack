@@ -1,0 +1,38 @@
+{
+	"author": {
+		"name": "Baptiste Pillot",
+		"email": "baptiste@pillot.fr"
+	},
+	"dependencies": {
+		"@itrocks/action": "latest",
+		"@itrocks/action-bar": "latest",
+		"@itrocks/action-request": "latest",
+		"@itrocks/data-to-object": "latest",
+		"@itrocks/route": "latest",
+		"@itrocks/storage": "latest",
+		"@itrocks/ux-core": "latest"
+	},
+	"description": "A set of dependencies for handling actions on business objects",
+	"files": [
+		"LICENSE",
+		"README.md"
+	],
+	"homepage": "https://it.rocks",
+	"keywords": [
+		"action",
+		"backend",
+		"bundle",
+		"common",
+		"it.rocks",
+		"kit",
+		"pack",
+		"preset"
+	],
+	"license": "ISC",
+	"name": "@itrocks/action-pack",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/itrocks-ts/action-pack.git"
+	},
+	"version": "0.0.1"
+}

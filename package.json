@@ -12,7 +12,7 @@
 		"@itrocks/storage": "latest",
 		"@itrocks/ux-core": "latest"
 	},
-	"description": "A set of dependencies for handling actions on business objects",
+	"description": "Bundle to define actions and render views for business objects",
 	"files": [
 		"LICENSE",
 		"README.md"
@@ -34,5 +34,5 @@
 		"type": "git",
 		"url": "git+https://github.com/itrocks-ts/action-pack.git"
 	},
-	"version": "0.0.1"
+	"version": "0.0.2"
 }

@@ -6,4 +6,4 @@
 
 # action-pack
 
-A set of dependencies for handling actions on business objects.
+Bundle to define actions and render views for business objects.

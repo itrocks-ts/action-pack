@@ -20,13 +20,20 @@
 	"homepage": "https://it.rocks",
 	"keywords": [
 		"action",
+		"actions",
 		"backend",
 		"bundle",
 		"common",
+		"crud",
+		"domain",
+		"framework",
 		"it.rocks",
 		"kit",
 		"pack",
-		"preset"
+		"preset",
+		"route",
+		"routing",
+		"storage"
 	],
 	"license": "ISC",
 	"name": "@itrocks/action-pack",
@@ -34,5 +41,5 @@
 		"type": "git",
 		"url": "git+https://github.com/itrocks-ts/action-pack.git"
 	},
-	"version": "0.0.2"
+	"version": "0.0.3"
 }

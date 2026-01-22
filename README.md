@@ -48,7 +48,7 @@ Instead of depending on each low‑level package individually, add a
 single dependency on `@itrocks/action-pack`, then import the concrete
 building blocks you need from their dedicated packages.
 
-### Example: code a new action for the [User](https://github.com/itrocks-ts/user) entity
+## Example: code a new action for the [User](https://github.com/itrocks-ts/user) entity
 
 **package.json**:
 ```json
